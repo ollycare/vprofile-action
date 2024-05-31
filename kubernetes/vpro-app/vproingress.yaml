@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: jeffrey1234com.com
+  - host: vprofile.jeffrey1234com.com
     http:
       paths:
       - path: /
